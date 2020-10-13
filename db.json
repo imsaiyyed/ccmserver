@@ -1,15 +1,65 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "asfasf"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+
+  "dealnumber": 123456,
+
+  "perfomance": {
+
+    "dealname": "TGT.com Nov 2019",
+
+    "dealproxy": "NA",
+
+    "vendor": "target",
+
+    "vendorsource": "target.com",
+
+    "dealnumber": "NA",
+
+    "avgdiscount": 60,
+
+    "estimatedesp": 20,
+
+    "allinshrink": 29,
+
+    "vendorshrink": 15,
+
+    "netasp": 14,
+
+    "cogs": 6,
+
+    "estopex": 1.05,
+
+    "estgm": 7.15
+
+  },
+
+  "performanceproxytwo": {
+
+    "dealname": "Comp Deal",
+
+    "vendor": "target",
+
+    "vendorsource": "target.com",
+
+    "dealnumber": 23456,
+
+    "dealproxy": "target",
+
+    "avgdiscount": 50,
+
+    "estimatedesp": 25,
+
+    "allinshrink": 40,
+
+    "vendorshrink": 38,
+
+    "netasp": 15,
+
+    "cogs": 6,
+
+    "estopex": 1.25,
+
+    "estgm": 7.7
+
   }
+
 }
