@@ -1,5 +1,5 @@
 {
-    "deals":
+    "deals":[
    {
     "dealnumber": 123456,
     "perfomance": {
@@ -32,5 +32,69 @@
       "estopex": 1.25,
       "estgm": 7.7
     }
+},{
+
+"dealnumber": 0,
+
+"perfomance": {
+
+"dealname": "",
+
+"dealproxy": "",
+
+"vendor": "",
+
+"vendorsource": "",
+
+"dealnumber": "",
+
+"avgdiscount": 0,
+
+"estimatedesp": 0,
+
+"allinshrink": 0,
+
+"vendorshrink": 0,
+
+"netasp": 0,
+
+"cogs": 0,
+
+"estopex": 0,
+
+"estgm": 0
+
+},
+
+"performanceproxytwo": {
+
+"dealname": "",
+
+"vendor": "",
+
+"vendorsource": "",
+
+"dealnumber": 0,
+
+"dealproxy": "",
+
+"avgdiscount": 0,
+
+"estimatedesp": 0,
+
+"allinshrink": 0,
+
+"vendorshrink": 0,
+
+"netasp": 0,
+
+"cogs": 0,
+
+"estopex": 0,
+
+"estgm": 0
+
 }
+
+}]
 }
