@@ -1,5 +1,5 @@
 {
-
+  "deals":[
   "dealnumber": 123456,
 
   "perfomance": {
@@ -61,5 +61,5 @@
     "estgm": 7.7
 
   }
-
+]
 }
