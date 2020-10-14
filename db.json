@@ -65,7 +65,7 @@
 "estgm": 0
 }
 }],
-"vendors":[ "Target", "Source"],
+"vendors":["Target","Source"],
 "vendorssource":[ "Target.com", "Source.com"],
 "sourcereason":[ "Excessive Inventory", "Minimal Inventory"],
 "status":["Available","Not Available"],
