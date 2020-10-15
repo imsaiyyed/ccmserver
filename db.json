@@ -46,7 +46,7 @@
             "TGT.com Oct 2019"
         ],
         "dealProxy": ["NA"],
-        "avgDiscount": 60,
+        "avgDiscount": 0.6,
         "dealNumber": "NA",
         "estimatedASP": 20,
         "allinShrink": 0.29,
@@ -68,7 +68,7 @@
         ],
         "dealProxy": ["NA"],
 	"dealNumber":["23456"],
-        "avgDiscount": 50,
+        "avgDiscount": 0.50,
         "dealNumber": "NA",
         "estimatedASP": 0.25,
         "allinShrink": 0.40,
