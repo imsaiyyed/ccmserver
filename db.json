@@ -3,7 +3,7 @@
     "buyerName": "John Doe",
     "createdDate": "",
     "bidDeadline": "",
-    "dealName": "",
+    "dealName": "TGT.com Nov 2019",
     "vendor": ["Target"],
     "vendorSource": ["Target.com"],
     "sourceReason": ["Excess Inventory"],
@@ -43,7 +43,7 @@
         ],
         "vandorSource": ["Target.com"],
         "dealName": [
-            "TGT.com Oct 2019"
+            "NA"
         ],
         "dealProxy": ["NA"],
         "avgDiscount": 0.6,
