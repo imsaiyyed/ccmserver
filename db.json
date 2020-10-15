@@ -7,7 +7,7 @@
     "vendor": [],
     "vendorSource": [],
     "sourceReason": [],
-    "status": [],
+    "status": ["submitted","available","bought","made offer","no interest"],
     "approver": [],
     "resolution": [],
     "resolutionDate": "",
