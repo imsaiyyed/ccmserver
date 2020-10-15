@@ -45,7 +45,7 @@
         "dealName": [
             "TGT.com Nov 2019"
         ],
-        "dealProxy": "NA",
+        "dealProxy": ["NA"],
         "avgDiscount": 60,
         "dealNumber": "NA",
         "estimatedASP": 20,
@@ -66,7 +66,7 @@
         "dealName": [
             "TGT.com Sept 2019"
         ],
-        "dealProxy": "NA",
+        "dealProxy": ["NA"],
 	"dealNumber":["23456"],
         "avgDiscount": 60,
         "dealNumber": "NA",
