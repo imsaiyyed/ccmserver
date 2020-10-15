@@ -1,4 +1,4 @@
-{	"deals":[
+{	"deals":[{
     "dealNumber": 123456,
     "buyerName": "John Doe",
     "createdDate": "",
@@ -77,7 +77,7 @@
         "cogs": 6,
         "estopex": 1.05,
         "estgm": 7.15
-    },
+    }},
 	{
     "dealNumber": 0,
     "buyerName": "",
