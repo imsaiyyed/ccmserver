@@ -1,4 +1,4 @@
-{
+{	"deals":[
     "dealNumber": 123456,
     "buyerName": "John Doe",
     "createdDate": "",
@@ -77,5 +77,81 @@
         "cogs": 6,
         "estopex": 1.05,
         "estgm": 7.15
+    },
+	{
+    "dealNumber": 0,
+    "buyerName": "",
+    "createdDate": "",
+    "bidDeadline": "",
+    "dealName": "",
+    "vendor": [],
+    "vendorSource": [],
+    "sourceReason": [],
+    "status": [],
+    "approver": [],
+    "resolution": [],
+    "resolutionDate": "",
+    "bidInfo": {
+        "basisType": [],
+        "currency": [],
+        "calculationMethod": [],
+        "purchaseUnit": [],
+        "basisAmount": 0,
+        "bidPercent": 0,
+        "BidAmount": 0,
+        "transportation": 0,
+        "units": 0,
+        "AUR": 0,
+        "depositAmount": 0
+    },
+    "dealFactors": {
+        "merchCondition": [],
+        "damageType": [],
+        "itemVisibility": [],
+        "itemSimilarity": [],
+        "pricingAvailability": [],
+        "pricingMethods": [],
+        "tags": [],
+        "stickerLabel": [],
+        "seasonal": [],
+        "FOBPoint": []
+    },
+    "perfomanceProxyOne": {
+        "proxyType": [],
+        "vendor": [],
+        "vandorSource": [],
+        "dealName": [
+        ],
+        "dealProxy": "NA",
+        "avgDiscount": 0,
+        "dealNumber": "NA",
+        "estimatedASP": 0,
+        "allinShrink": 0,
+        "vendorShrink": 0,
+        "internalShrink": 0,
+        "netasp": 0,
+        "cogs": 0,
+        "estopex": 0,
+        "estgm": 0
+    },
+    "performanceProxyTwo": {
+        "proxyType": [],
+        "vendor": [],
+        "vandorSource": [],
+        "dealName": [
+            
+        ],
+        "dealProxy": "NA",
+        "avgDiscount": 0,
+        "dealNumber": "NA",
+        "estimatedASP": 0,
+        "allinShrink": 0,
+        "vendorShrink": 0,
+        "internalShrink": 0,
+        "netasp": 0,
+        "cogs": 0,
+        "estopex": 0,
+        "estgm": 0
     }
+}]
 }
