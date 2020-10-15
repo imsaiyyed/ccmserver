@@ -39,7 +39,7 @@
     "perfomanceProxyOne": {
         "proxyType": [],
         "vendor": [
-            "target"
+            "target","source"
         ],
         "vandorSource": [],
         "dealName": [
